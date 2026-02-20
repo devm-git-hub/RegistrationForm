@@ -1,1 +1,1 @@
-Happy to share a responsive, accessible Registration Form I built with React and modern CSS — it includes semantic markup, client-side validation, and a mobile-first layout. Interested in the code or implementation details? I can post the repo link and a short walkthrough
+Happy to share a responsive, accessible Registration Form I built with React and modern CSS — it includes semantic markup, client-side validation, and a mobile-first layout. 
